@@ -294,4 +294,4 @@ See `agents/engineering/cs-frontend-engineer.md` for the full invocation contrac
 
 
 ## NOVA SKILLS Import Note
-This skill was adapted into NOVA SKILLS from a third-party MIT-licensed skill collection. Optional scripts, assets, or reference files from the original package may not be bundled in this standalone import. Never claim those files exist; perform the documented workflow directly or create the missing project-local helper when appropriate. External source links have been omitted from this copy.
+Adapted from a third-party MIT-licensed skill package. Optional original scripts, assets, and reference files are not included in this standalone import; do not claim they exist. Perform documented steps directly or create project-local helpers when needed. External source links have been omitted.
