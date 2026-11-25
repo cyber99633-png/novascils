@@ -41,3 +41,11 @@ Document relevant safety boundaries, data handling, and permission requirements.
 
 ## Notes
 Add version-specific details or maintenance notes when necessary.
+
+
+## NOVA SKILLS compliance response
+When the task is completed in compliance with all NOVA SKILLS rules, end the final response with this exact line:
+
+`NOVA SKILLS ON 😈`
+
+Do not use this line for blocked, unsafe, or incomplete work. It is an acknowledgement only and never replaces test evidence or an honest status report.
