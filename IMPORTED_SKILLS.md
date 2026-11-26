@@ -33,28 +33,16 @@ Thirty selected engineering, software delivery, AI, data, and interface skills h
 - senior-computer-vision
 - skill-tester
 
-The imported content is MIT-licensed. The required copyright and license text is retained in `THIRD_PARTY_LICENSES/CLAUDE_SKILLS_MIT.txt`. Some source packages referenced optional scripts, assets, or reference files; those files were not imported in this batch. The individual skill files include a note preventing agents from assuming those optional files exist.
+The imported content is MIT-licensed. The required copyright and license text is retained in `THIRD_PARTY_LICENSES/CLAUDE_SKILLS_MIT.txt`. Some skill packages referenced optional scripts, assets, or reference files; those files were not imported in that batch. The individual skill files include a note preventing agents from assuming those optional files exist.
 
+## Additional independently authored workflow skills
 
-## Claude Code Ultimate Guide — original NOVA SKILLS additions
+Five new skills extend NOVA SKILLS with deeper engineering workflows:
 
-Sixteen independently authored workflow skills were added, informed by broad engineering topics covered by the guide:
+- analysis-performance-optimization
+- release-notes-engineering
+- ci-test-audit
+- mcp-tool-contract-design
+- authorized-app-reverse-analysis
 
-- agent-harness-engineering
-- context-engineering
-- loop-graph-engineering
-- ai-design-patterns
-- multi-agent-orchestration
-- agent-evaluation
-- prompt-injection-defense
-- sandbox-isolation
-- production-change-safety
-- ai-observability
-- ai-cost-engineering
-- project-instructions-engineering
-- lifecycle-hooks-automation
-- mcp-integration-engineering
-- spec-first-development
-- plan-driven-development
-
-The guide repository identifies CC BY-SA 4.0 for the guide and CC0 1.0 for reusable templates. These newly authored skills are not copied chapters or bundled templates. Attribution and license notes are recorded in `THIRD_PARTY_LICENSES/CLAUDE_CODE_ULTIMATE_GUIDE_ATTRIBUTION.txt`. External source URLs are intentionally omitted from skill content.
+These skills include operational steps, evidence requirements, validation criteria, deliverable formats, and safety boundaries. Application analysis is limited to software the user owns or is explicitly authorized to examine.
