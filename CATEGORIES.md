@@ -6,8 +6,12 @@
 - Databases, Data Modeling and API Engineering
 - Artificial Intelligence, Prompt Engineering and AI Agents
 - Defensive Cybersecurity, Secure Coding and Authorized Security Testing
+- Authorized Application Analysis, Software Compatibility and Software Preservation
 - DevOps, Linux, Cloud and Infrastructure
 - Workflow and Browser Automation
+- CI/CD, Test Engineering and Quality Auditing
+- Software Performance and Analysis Optimization
+- MCP Tool Design, Agent Interfaces and Integration Contracts
 - UI/UX, Interaction Design and Design Systems
 - Animation and Motion: CSS, GSAP, Framer Motion, Lottie, Rive, Three.js, React Three Fiber, PixiJS, Anime.js and Motion Canvas
 - Graphic Design, Branding, Typography and Presentations
